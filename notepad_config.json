@@ -1,0 +1,4 @@
+{
+  "store_in_mongo": true,
+  "mongo_uri": "mongodb+srv://faishal:E8oE0UwXEpv5qWfi@cluster0.sekqq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+}
